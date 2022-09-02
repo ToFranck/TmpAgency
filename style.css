@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Qwitcher+Grypen&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.primary{
+    color: rgb(0, 111, 115) !important;
+}
+
+
+
+.title{
+    color: rgb(0, 111, 115);
+    font-size: 80px;
+}
+
+.space {
+    margin-top: 10%;
+}
+
+.space-2 {
+    margin-top: 15%;
+}
+
+.img-1{
+    max-height: 700px !important;
+}
+
+.img-2{
+    width: 40% !important;
+}
+
+.img-3{
+    width: 40% !important;
+}
+
+@media (max-width: 1090px){
+    .title{
+       
+        font-size: 50px;
+    }
+}
